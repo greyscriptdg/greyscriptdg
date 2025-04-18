@@ -62,7 +62,6 @@
 - **Kickstarter Labs** – MVPs built for funding, traction, and virality
 
 ---
-
 ## 📈 Dhairya's GitHub by the Numbers
 
 - 🔧 800+ apps & tools built (many private)
@@ -72,18 +71,22 @@
 - 🚀 Crafting full-scale digital products — from MVP to enterprise
 - 🧠 Integrating AI where it matters using GPT, Claude, Gemini, Firebase, LangChain, Pinecone, Supabase, OpenRouter, Replicate, Google Vertex AI, and automation platforms like Zapier, Make, and Pabbly
 
-### 🔹 Dhairya's GitHub Stats
+---
 
-<p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greyscriptdg&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight)
-</p>
+### 📈 Dhairya's GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=greyscriptdg&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight" alt="GitHub Stats" />
+</div>
+
 ---
 
 ### 🔤 Most Used Languages
 
-<p align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greyscriptdg&layout=compact&theme=tokyonight&hide=html,css)
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyscriptdg&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</div>
+
 ---
 
 > ⚠️ Note: Most of my client work is private — this profile highlights selected open-source UI-first projects only.
