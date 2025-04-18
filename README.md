@@ -1,35 +1,56 @@
 <h1 align="center">Hi 👋, I'm Dhairya (@greyscriptdg)</h1>
 <p align="center">
-  Founder @ GreyScript • AI-Powered App Developer • UI-First Product Builder
+  Founder @ GreyScript • UI-First App Developer • AI-Powered Product Builder
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=460&height=45&lines=Building+beautiful+apps+since+2013;Crafting+AI-powered+solutions;Pixel-perfect+UI+is+non-negotiable" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 👨‍💻 In the tech industry since **December 2013**, with hands-on experience across **all major stacks**
-- 🎨 Specialist in building **stunning UI/UX apps** with high performance and pixel-perfect precision
-- 🤖 Currently exploring **AI Agents**, **LLM APIs**, **Automation Workflows**, and custom GPT tools
-- 📱 Core skills in: `React Native`, `Flutter`, `Next.js`, `Firebase`, `OpenAI`, `LangChain`, `Node.js`
-- 💡 Helping businesses launch fast, scale smart, and build future-proof products powered by AI
-- 🤝 Open to collaborating on **AI tools**, **SaaS MVPs**, and **fundable startup projects**
+- 👨‍💻 In the tech industry since **December 2013**, with experience across **all major stacks**
+- 📱 Expert in crafting **stunning UI-first mobile & web apps** using `React Native`, `Flutter`, and `Next.js`
+- 🤖 Currently focused on building **AI agents**, **LLM apps**, and **automation workflows**
+- 🧠 Strong backend capabilities with `Firebase`, `Node.js`, `Python`, `Supabase`, and more
+- 💡 Helping startups and businesses launch fast, scale smart, and build future-proof products
+- 🤝 Open to collaborating on **SaaS MVPs**, **AI tools**, and **Kickstarter-grade ideas**
 - 📫 Reach me at:  
   ✉️ greyscriptdhairya@gmail.com  
   🔗 [LinkedIn – Dhairya Ganatra](https://www.linkedin.com/in/dhairya-shailesh-ganatra-flash07/)
 - 😄 Pronouns: he/him  
-- ⚡ Fun fact: I've helped **580+ clients** across **800+ projects** since 2013 — globally trusted and UI-obsessed 🚀
+- ⚡ Fun fact: I've helped **580+ clients** across **800+ projects** — globally trusted and results-driven 🚀
 
 ---
 
 ### 🧠 What We Build
 
-- 🤖 AI-powered tools, LLM agents, automation workflows  
-- 📱 Cross-platform mobile apps (React Native & Flutter)  
-- 💻 Web apps with Next.js, Tailwind, Firebase, Supabase  
-- 🔐 Secure backends with Node.js, Python, Firebase Auth  
-- 💳 Stripe/PayPal subscriptions, push notifications, analytics  
-- 🧪 End-to-end SaaS platforms and MVPs (from wireframe to launch)  
-- 🎨 UI-first interfaces that *convert and delight* users  
+- 🤖 AI-powered tools, GPT bots, and LangChain integrations  
+- 📱 Cross-platform mobile apps (React Native, Flutter)  
+- 💻 Web apps (Next.js, Tailwind, Firebase, Supabase)  
+- 🔐 Secure backend APIs & admin panels  
+- 💳 Subscription payments, analytics, push notifications  
+- 🎨 UI-first design with pixel-perfect animations  
+- 🚀 MVPs, SaaS platforms, and enterprise-scale solutions
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-0D1117?style=for-the-badge&logo=python&logoColor=green" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
@@ -38,23 +59,23 @@
 - **PromptZen** – AI-powered prompt engineering assistant  
 - **LinkedZen** – LinkedIn content automation with LLMs  
 - **InterfaceBuilder** – Prompt-to-frontend code generator  
-- **Kickstarter Labs** – High-potential MVPs with viral growth hooks
+- **Kickstarter Labs** – MVPs built for funding, traction, and virality
 
 ---
 
-### 🛠️ Tech & Tools I Work With
-
-`React Native` • `Flutter` • `Next.js` • `Tailwind CSS` • `Firebase` • `OpenAI` • `LangChain`  
-`Supabase` • `Node.js` • `Python` • `TypeScript` • `Vercel` • `Framer Motion`
-
----
-
-### 📈 GitHub Stats
+### 🧾 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greyscriptdg&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyscriptdg&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <i>Most of my work is in private or client repositories —  
+  but I've built and shipped 800+ apps and tools that power real businesses worldwide 💼✨</i>
+</p>
+
+---
+
+### 🌗 Dark Mode Friendly
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dark%20Mode-Supported-0f172a?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
