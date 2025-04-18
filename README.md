@@ -63,18 +63,18 @@
 
 ---
 
-### 🧾 GitHub Activity
+### 📊 Dhairya's GitHub by the Numbers
 
-<p align="center">
-  <i>Most of my work is in private or client repositories —  
-  but I've built and shipped 800+ apps and tools that power real businesses worldwide 💼✨</i>
-</p>
+- 🔧 800+ apps & tools built (many private)
+- 🌍 580+ global clients served since 2013
+- 🖼️ 5+ open-source UI-first showcases (ongoing)
+- 📱 Projects across Web, Flutter, React Native, Kotlin, and Swift
+- 🧠 Building AI-powered products with GPT, Firebase, and automation
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greyscriptdg&show_icons=true&count_private=true&theme=tokyonight" alt="Dhairya's GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greyscriptdg&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight)
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyscriptdg&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
-</p>
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greyscriptdg&layout=compact&theme=tokyonight&hide=html,css)
+/p>
 
 ---
 
