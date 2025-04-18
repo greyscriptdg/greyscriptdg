@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhairya (@greyscriptdg)</h1>
 <p align="center">
-  Founder @ GreyScript • UI-First App Developer • AI-Powered Product Builder
+  Co-Founder @ GreyScript • UI-First App Developer • AI-Powered Product Builder
 </p>
 
 <p align="center">
