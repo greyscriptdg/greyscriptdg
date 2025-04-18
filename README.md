@@ -70,6 +70,12 @@
   but I've built and shipped 800+ apps and tools that power real businesses worldwide 💼✨</i>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=greyscriptdg&show_icons=true&count_private=true&theme=tokyonight" alt="Dhairya's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyscriptdg&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ---
 
 ### 🌗 Dark Mode Friendly
@@ -77,6 +83,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Dark%20Mode-Supported-0f172a?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+
 
 ---
 
