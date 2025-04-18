@@ -74,14 +74,16 @@
 
 ### 🔹 Dhairya's GitHub Stats
 
+<p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greyscriptdg&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight)
-
+</p>
 ---
 
 ### 🔤 Most Used Languages
 
+<p align="center">
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greyscriptdg&layout=compact&theme=tokyonight&hide=html,css)
-
+</p>
 ---
 
 > ⚠️ Note: Most of my client work is private — this profile highlights selected open-source UI-first projects only.
