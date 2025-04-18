@@ -63,19 +63,28 @@
 
 ---
 
-### 📊 Dhairya's GitHub by the Numbers
+## 📈 Dhairya's GitHub by the Numbers
 
 - 🔧 800+ apps & tools built (many private)
 - 🌍 580+ global clients served since 2013
 - 🖼️ 5+ open-source UI-first showcases (ongoing)
 - 📱 Projects across Web, Flutter, React Native, Kotlin, and Swift
-- 🧠 Building AI-powered products with GPT, Firebase, and automation
+- 🚀 Crafting full-scale digital products — from MVP to enterprise
+- 🧠 Integrating AI where it matters using GPT, Claude, Gemini, Firebase, LangChain, Pinecone, Supabase, OpenRouter, Replicate, Google Vertex AI, and automation platforms like Zapier, Make, and Pabbly
+
+### 🔹 Dhairya's GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=greyscriptdg&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight)
-  <br />
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greyscriptdg&layout=compact&theme=tokyonight&hide=html,css)
-/p>
 
+---
+
+### 🔤 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greyscriptdg&layout=compact&theme=tokyonight&hide=html,css)
+
+---
+
+> ⚠️ Note: Most of my client work is private — this profile highlights selected open-source UI-first projects only.
 ---
 
 ### 🌗 Dark Mode Friendly
