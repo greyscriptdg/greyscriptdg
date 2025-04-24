@@ -76,16 +76,33 @@
 ### 📈 Dhairya's GitHub Stats
 
 <div align="center">
+
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=greyscriptdg&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight" alt="GitHub Stats" />
-</div>
+  
+  <br />
+  <br />
 
----
-
-### 🔤 Most Used Languages
-
-<div align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greyscriptdg&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  
+  <br />
+<br />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=greyscriptdg&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  
+  <br />
+<br />
+  <!-- Commit Streak -->
+  <img src="https://streak-stats.demolab.com?user=greyscriptdg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <br />
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=greyscriptdg&theme=tokyonight&no-frame=true&row=1&margin-w=10" alt="GitHub Trophies" />
+
 </div>
+
 
 ---
 
