@@ -244,7 +244,11 @@ We don't just chain prompts together. We design proper system architecture with:
 
 ## 📈 GitHub Analytics & Achievements
 
-<img src="https://github-readme-stats.vercel.app/api?username=greyscriptdg&show_icons=true&count_private=true&hide=prs,issues&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=FF6B35" alt="GitHub Stats" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=greyscriptdg&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=FF6B35&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+
 
 <br />
 <br />
@@ -255,11 +259,6 @@ We don't just chain prompts together. We design proper system architecture with:
 <br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=greyscriptdg&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=FF6B35&point=C9D1D9" alt="Contribution Graph" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=greyscriptdg&theme=tokyonight&background=0D1117&stroke=58A6FF&ring=FF6B35&fire=FF6B35&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 
 <br />
 <br />
